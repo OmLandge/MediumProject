@@ -22,7 +22,7 @@ export const Blogs = () => {
         </div>
     }
 
-    return <div>
+    return <div className="mb-20">
             <Appbar />
         <div  className="flex justify-center">
             <div>

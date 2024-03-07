@@ -18,7 +18,7 @@ export const Blog = () => {
         </div>
         </div>
     }
-    return <div>
+    return <div className="mb-20">
         <FullBlog blog={blog} />
     </div>
 }
