@@ -1,0 +1,3 @@
+const pg = 'postgresql://OmLandge:dY3sL8oPOQKj@ep-still-lab-80519550.us-east-2.aws.neon.tech/omlandgetest?sslmode=require'
+
+const DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNjY1NDAzMmYtMzhmNC00NTFlLWE4N2MtNTEzYTkzOTExMTQxIiwidGVuYW50X2lkIjoiOWVmZjMwN2Q5M2YyMTM1OWE1NmNhOWFlZjE0MDkxNDJmNDUwODExZTEzYzUzZWEyOTlkNGY1ZjJmNjdjODQ3MiIsImludGVybmFsX3NlY3JldCI6IjcyNjIwNDY4LTJjMzctNDhiOC05Mjc2LWNjNWVjZjk2MmI0ZCJ9.-tBf5-azPg8EQJPybyvK-tV5L_lFKmBCMikSVd5NlGQ"
